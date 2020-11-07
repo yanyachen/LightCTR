@@ -6,6 +6,12 @@ LightCTR aims to provide modularized layers and models for deep-learning based c
 - Provide deep learning building blocks `tf.keras.layers.Layer` which can be used to easily build custom models.
 - Provide multi optimizer supprot for fine-grained model optimization strategy
 
+## Install
+```
+pip install --upgrade git+https://github.com/yanyachen/LightCTR.git@master
+# or add `--user` to install to user's local directories
+```
+
 ## Models List
 
 |                 Model                  | Paper                                                                                                                                                           |
